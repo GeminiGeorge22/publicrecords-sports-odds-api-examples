@@ -1,5 +1,8 @@
 # Sports Odds API — exemples
 
+[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-sports-odds-api-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-sports-odds-api-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Cotes en direct de 24 bookmakers Kambi (BetRivers, Unibet, Paf, etc.), avec le meilleur prix par issue.
 
 L'Actor s'exécute sur **votre** compte Apify (jeton API ou OAuth). L'usage vous est facturé, sur l'offre gratuite ou payante d'Apify.

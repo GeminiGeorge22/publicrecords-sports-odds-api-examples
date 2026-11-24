@@ -1,5 +1,8 @@
 # Sports Odds API — 使用例
 
+[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-sports-odds-api-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-sports-odds-api-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Kambi系スポーツブック24社（BetRivers、Unibet、Pafなど）のライブオッズと、結果ごとの最良価格。
 
 このActorは**あなた自身の**Apifyアカウント（APIトークンまたはOAuth）で実行します。利用料はApifyの無料または有料プランであなたに課金されます。
